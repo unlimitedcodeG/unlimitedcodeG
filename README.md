@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=unlimited&theme=algolia&show_icons=true">
-Python
-
+![Python](https://img.shields.io/badge/-Python-orange)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
