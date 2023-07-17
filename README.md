@@ -1,25 +1,22 @@
-### Hi there 👋
+### Hi there 👋 This is RongYiYuanMiTsuTsuKi’s Github Profile
 
-<!--
-**unlimitedcodeG/unlimitedcodeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**unlimitedcodeG/unlimitedcodeG** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
+- 🔭 I’m currently working on ... emm ... now status is unemployee
+- 🌱 I’m currently learning next-js fullstack
+- 👯 I’m looking to collaborate on nice culture team, nice teammates, good company culture.
+- 🤔 I’m looking for help with some work job in future.
+<!--💬 Ask me about ... -->
+- 📫 How to reach me: lj5525908@gmail.com 
+- 😄 Pronouns: RongYiYuanMiTsuTsuKi
+- ⚡ Fun fact: This is an Otaku Coder
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--💬 Ask me about ... -->
 ![](https://github-readme-stats.vercel.app/api?username=unlimitedcodeG&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedcodeG&hide=html,css,tsql,python,perl&layout=compact&langs_count=6&theme=tokyonight&v=2)
 
 (SINCE JAN 23 2018)
-## 技术栈 Github 统计
+## My FullStack Github statistics
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/><img alt="VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A"/>
