@@ -2,9 +2,9 @@
 
 **unlimitedcodeG/unlimitedcodeG** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
 - 🔭 I’m currently working on ... emm ... now status is unemployee before is a froniter and QA Test Engineer.
-- 🌱 I’m currently learning next-js fullstack 
+- 🌱 I’m currently learning some froniter teach and be a candidate in this autumn.
 - 👯 I’m looking to collaborate on nice culture team, nice teammates, good company culture.
-- 🤔 I’m looking for help with some work job in future.
+- 🤔 I’m looking for help with some work job in future(maybe test is most suitable for me , code is one time  funing, look some digial factor work.
 <!--💬 Ask me about ... -->
 - 📫 How to reach me: lj5525908@gmail.com 
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
