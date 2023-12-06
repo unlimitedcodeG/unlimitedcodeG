@@ -1,14 +1,14 @@
 ### Hi there 👋 This is RongYiYuanMiTsuTsuKi’s Github Profile
 
 **unlimitedcodeG/unlimitedcodeG** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
-- 🔭 I’m currently working on ... emm ... now status is unemployee before is a froniter and QA Test Engineer.
-- 🌱 I’m currently learning some froniter teach and be a candidate in this autumn.
-- 👯 I’m looking to collaborate on nice culture team, nice teammates, good company culture.
-- 🤔 I’m looking for help with some work job in future(maybe test is most suitable for me , code is one time  funing, look some digial factor work.
+- 🔭 I’m currently working on ihuaben company... emm ... now status is the employee state,I am fullstack QA Test Engineer now.
+- 🌱 I’m currently learning some froniter teach and become the fullstack Engineer now.
+- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.
+- 🤔 I’m full job in ihuaben company.
 <!--💬 Ask me about ... -->
-- 📫 How to reach me: lj5525908@gmail.com 
+- 📫 How to reach me: lj5525908@gmail.com  or 1659159807@qq.com
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
-- ⚡ Fun fact: This is an Otaku Coder
+- ⚡ Fun fact: This is an Otaku Coder Code and do practice with myself.
 
 <!--💬 Ask me about ... -->
 ![](https://github-readme-stats.vercel.app/api?username=unlimitedcodeG&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
