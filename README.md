@@ -9,12 +9,11 @@
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
 - ⚡ Fun fact: This is an Otaku Coder Code and do practice with myself.
 <div align=center>
-  
+(SINCE JAN 23 2018)
 <!--💬 Ask me about ... -->
 ![](https://github-readme-stats.vercel.app/api?username=unlimitedcodeG&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedcodeG&hide=html,css,tsql,python,perl&layout=compact&langs_count=6&theme=tokyonight&v=2)
-(SINCE JAN 23 2018)
 ## My FullStack Github statistics
 </div>
 <div align=center>
