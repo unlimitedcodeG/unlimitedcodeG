@@ -2,7 +2,7 @@
 This is a ✨ _special_ ✨ repository because you can get to know more about me right here on my GitHub profile.
 - 🔭 I’m currently exploring new opportunities as a full-stack engineer.
 - 🌱 I’m learning advanced technologies to enhance my skills as a full-stack developer.
-- 👯 I’m looking to collaborate with teams that prioritize respect, professionalism, and a positive culture.
+- 👯 I’m seeking to collaborate with teams that prioritize respect, professionalism, and a positive culture.
 - 🤔 I’m navigating my career path post-graduation and seeking engaging projects.
 - 📫 How to reach me: [Email me at lj5525908@gmail.com](mailto:lj5525908@gmail.com) or [QQ 1659159807](#)
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
