@@ -1,14 +1,25 @@
-### Hi there 👋 This is RongYiYuanMi TsuTsuKi’s Github Profile
-**RongYiYuanMi TsuTsuKi** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
-- 🔭 I’m currently working on... emm ... now status is the unemployee state,I am unemployed fullstack Engineer now.
-- 🌱 I’m currently learning some froniter teach and become the fullstack Engineer now.
-- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.
-- ps：fuck garbage colleague and Teams without testing knowledge unrespect and antagonistic.
-- 🤔 I’m unemployed states, It's graduation time..
-<!--💬 Ask me about ... --> 
-- 📫 How to reach me: lj5525908@gmail.com  or 1659159807@qq.com
+### Hi there 👋 Welcome to RongYiYuanMi TsuTsuKi’s GitHub Profile!
+
+This is a ✨ _special_ ✨ repository because you can get to know more about me right here on my GitHub profile.
+
+- 🔭 I’m currently exploring new opportunities as a full-stack engineer.
+- 🌱 I’m learning advanced technologies to enhance my skills as a full-stack developer.
+- 👯 I’m looking to collaborate with teams that value a positive culture and supportive colleagues.
+- 🤔 I’m navigating my career path post-graduation and seeking engaging projects.
+- 📫 How to reach me: [Email me at lj5525908@gmail.com](mailto:lj5525908@gmail.com) or [QQ 1659159807](#)
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
-- ⚡ Fun fact: This is an Otaku Coder Code and do practice with myself.
+- ⚡ Fun fact: I am an Otaku coder who loves to code and practice independently.
+
+#### A little more about me
+I thrive in environments that respect individuality and teamwork, and I’m passionate about contributing to projects that push technological boundaries.
+
+<div align="center">
+<strong>SINCE JAN 23, 2018</strong>
+</div>
+
+#### I'd love your feedback!
+Feel free to give me some suggestions or feedback on how to improve my profile!
+
 <div align=center>
 (SINCE JAN 23 2018)
 
