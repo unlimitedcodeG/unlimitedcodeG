@@ -2,9 +2,10 @@
 **RongYiYuanMi TsuTsuKi** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
 - 🔭 I’m currently working on... emm ... now status is the unemployee state,I am unemployed fullstack Engineer now.
 - 🌱 I’m currently learning some froniter teach and become the fullstack Engineer now.
-- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.ps：fuck garbage colleague and Teams without testing knowledge.
+- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.
+- ps：fuck garbage colleague and Teams without testing knowledge unrespect and antagonistic.
 - 🤔 I’m unemployed states, It's graduation time..
-<!--💬 Ask me about ... -->
+<!--💬 Ask me about ... --> 
 - 📫 How to reach me: lj5525908@gmail.com  or 1659159807@qq.com
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
 - ⚡ Fun fact: This is an Otaku Coder Code and do practice with myself.
