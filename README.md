@@ -1,9 +1,9 @@
 ### Hi there 👋 This is RongYiYuanMi TsuTsuKi’s Github Profile
 **RongYiYuanMi TsuTsuKi** is a ✨ _special_ ✨ repository because its introduce will appears on My GitHub profile.
-- 🔭 I’m currently working on ihuaben company... emm ... now status is the employee state,I am fullstack QA Test Engineer now.
+- 🔭 I’m currently working on... emm ... now status is the unemployee state,I am unemployed fullstack Engineer now.
 - 🌱 I’m currently learning some froniter teach and become the fullstack Engineer now.
-- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.
-- 🤔 I’m full job in ihuaben company.
+- 👯 I’m glad to collaborate on nice culture team, nice teammates, good company culture.ps：fuck garbage colleague and Teams without testing knowledge.
+- 🤔 I’m unemployed states, It's graduation time..
 <!--💬 Ask me about ... -->
 - 📫 How to reach me: lj5525908@gmail.com  or 1659159807@qq.com
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
