@@ -1,17 +1,16 @@
 ### Hi there 👋 Welcome to RongYiYuanMi TsuTsuKi’s GitHub Profile!
-
 This is a ✨ _special_ ✨ repository because you can get to know more about me right here on my GitHub profile.
-
 - 🔭 I’m currently exploring new opportunities as a full-stack engineer.
 - 🌱 I’m learning advanced technologies to enhance my skills as a full-stack developer.
-- 👯 I’m looking to collaborate with teams that value a positive culture and supportive colleagues.
+- 👯 I’m looking to collaborate with teams that prioritize respect, professionalism, and a positive culture.
 - 🤔 I’m navigating my career path post-graduation and seeking engaging projects.
 - 📫 How to reach me: [Email me at lj5525908@gmail.com](mailto:lj5525908@gmail.com) or [QQ 1659159807](#)
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
+- :angry: fuck antagonistic  teams and hates 
 - ⚡ Fun fact: I am an Otaku coder who loves to code and practice independently.
 
 #### A little more about me
-I thrive in environments that respect individuality and teamwork, and I’m passionate about contributing to projects that push technological boundaries.
+I am particularly passionate about working in environments that value teamwork, respect, and continuous improvement. I thrive in settings that steer clear of negativity and where every team member is valued and supported.
 
 <div align="center">
 <strong>SINCE JAN 23, 2018</strong>
