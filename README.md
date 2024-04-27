@@ -13,7 +13,6 @@
 (SINCE JAN 23 2018)
 
 <!--💬 Ask me about ... -->
-![](https://github-readme-stats.vercel.app/api?username=unlimitedcodeG&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedcodeG&hide=html,css,tsql,python,perl&layout=compact&langs_count=6&theme=tokyonight&v=2)
 
@@ -28,7 +27,7 @@
 </div>
 
 ## My FullStack Github statistics
-</div>
+
 <div align=center>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"/><img alt="VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code"/>
