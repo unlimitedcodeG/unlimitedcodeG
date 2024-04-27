@@ -13,9 +13,9 @@
 (SINCE JAN 23 2018)
 
 <!--💬 Ask me about ... -->
+![](https://github-readme-stats.vercel.app/api?username=unlimitedcodeG&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unlimitedcodeG&hide=html,css,tsql,python,perl&layout=compact&langs_count=6&theme=tokyonight&v=2)
-
 <div align=center>
 <h2>Tools and Environments</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
