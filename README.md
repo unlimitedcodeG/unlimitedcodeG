@@ -6,7 +6,7 @@ This is a ✨ _special_ ✨ repository because you can get to know more about me
 - 🤔 I’m navigating my "post-graduation" and seeking engaging projects.
 - 📫 How to reach me: [Email me at lj5525908@gmail.com](mailto:lj5525908@gmail.com) or [QQ 1659159807](#)
 - 😄 Pronouns: RongYiYuanMiTsuTsuKi
-- :angry: fuck antagonistic  teams and hates 
+- :angry: fuck antagonistic  teams and hates ,also fuck garbage team leader and boss,fuck their ambigous requirement&& boast，fuck cyber slave employee in Workplace Graveyard
 - ⚡ Fun fact: I am an Otaku coder who loves to code and practice independently.
 
 #### A little more about me
