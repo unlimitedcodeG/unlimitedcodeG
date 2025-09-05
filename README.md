@@ -12,7 +12,7 @@ This is a ✨ _special_ ✨ repository because you can get to know more about me
 
 #### A little more about me
 I am particularly passionate about working in environments that value teamwork, respect, and continuous improvement. I thrive in settings that steer clear of negativity and where every team member is valued and supported.  
-⚠️ I have little tolerance for those who pretend to know what they don’t, or for ineffective leadership that hinders growth.
+⚠️ fuck a*ss company
 
 <div align="center">
 <strong>SINCE JAN 23, 2018</strong>
