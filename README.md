@@ -1,9 +1,6 @@
-<h2><a href="https://github.com/unlimitedcodeG"><img src="https://raw.githubusercontent.com/unlimitedcodeG/unlimitedcodeG/main/hi_geekmk.svg" align="left" /></a>🌱</h2>
+### Hi there 👋 Welcome to My GitHub Profile! 
+<h2><a href="https://github.com/unlimitedcodeG"><img src="https://raw.githubusercontent.com/unlimitedcodeG/unlimitedcodeG/main/hi_geekmk.svg" align="left" /></a></h2>   
 
-<!--<p>
-  <img src="https://weather-icon.getloli.com/@shanghai?v=1" align="right">
-</p>-->
-### Hi there 👋 Welcome to RongYiYuanMi TsuTsuKi’s GitHub Profile!
 ![:unlimitedcodeG](https://count.getloli.com/@:unlimitedcodeG?theme=booru-lewd)  
 This is a ✨ _special_ ✨ repository because you can get to know more about me right here on my GitHub profile.
 - 🔭 I’m currently exploring new opportunities as a full-stack engineer.
