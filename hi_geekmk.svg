@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
+  <defs>
+    <!-- 定义渐变：紫 -> 蓝 -> 深蓝 -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#a18cd1; stop-opacity:1" /> <!-- 紫色 -->
+      <stop offset="50%"  style="stop-color:#4facfe; stop-opacity:1" /> <!-- 蓝色 -->
+      <stop offset="100%" style="stop-color:#1a2a6c; stop-opacity:1" /> <!-- 深蓝 -->
+    </linearGradient>
+  </defs>
+
+  <!-- 使用渐变填充文字 -->
+  <text x="10" y="70"
+        font-size="40"
+        font-family="Arial, sans-serif"
+        font-weight="bold"
+        fill="url(#grad1)">
+    Hi, I'm GeekMK
+  </text>
+</svg>
